@@ -1,5 +1,5 @@
-# Matrix-Neural-Network
-The Matlab source demo code for Matrix Neural Network
+# Matrix-Neural-Networks
+The Matlab source demo code for Matrix Neural Networks
 
 The starting point is MatNet_demo.m. 
 
