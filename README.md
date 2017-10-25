@@ -1,2 +1,13 @@
 # Matrix-Neural-Network
 The Matlab source demo code for Matrix Neural Network
+
+The starting point is MatNet_demo.m. 
+
+It is based on MNIST data set. 
+The matrix neural network demonstrated is fixed: 
+input layer: 28 x 28
+hidden layer 1: 20 x 20
+hidden layer 2: 16 x 16
+Output layer: 10 neurons
+
+The optimisation parameters are in Options section of MatNet_demo.m
