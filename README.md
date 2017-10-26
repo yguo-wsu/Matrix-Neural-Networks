@@ -1,6 +1,8 @@
 # Matrix-Neural-Networks
 The Matlab source demo code for Matrix Neural Networks
 
+For technical details please see our paper "Matrix Neural Networks" by Junbin Gao, Yi Guo, Zhiyong Wang at https://arxiv.org/abs/1601.03805.
+
 The starting point is MatNet_demo.m. 
 
 It is based on MNIST data set. 
